@@ -18,10 +18,10 @@ This project implements a robust ML pipeline that:
 
 | Model | OOF Gini Score |
 |-------|----------------|
-| LightGBM | 0.XXXX |
-| XGBoost | 0.XXXX |
-| CatBoost | 0.XXXX |
-| **Ensemble** | **0.XXXX** ⭐ |
+| LightGBM | 0.279636 |
+| XGBoost | 0.280097 |
+| CatBoost | 0.279584 |
+| **Ensemble** | **0.282137** ⭐ |
 
 ## 🚀 Quick Start
 
@@ -43,18 +43,18 @@ This will:
 
 ## 📁 Project Structure
 ```
-├── main.py                 # Main pipeline script
-├── requirements.txt        # Python dependencies
-├── README.md              # This file
+├── main.py                 
+├── requirements.txt        
+├── README.md              
 ├── docs/
-│   ├── METHODOLOGY.md     # Detailed methodology
-│   ├── FEATURES.md        # Feature engineering documentation
-│   └── API.md             # Code API reference
+│   ├── METHODOLOGY.md    
+│   ├── FEATURES.md        
+│   └── API.md             
 ├── data/
-│   ├── train.csv          # Training data (not included)
-│   └── test.csv           # Test data (not included)
+│   ├── train.csv          
+│   └── test.csv           
 └── notebooks/
-    └── EDA.ipynb          # Exploratory data analysis
+    └── EDA.ipynb         
 ```
 
 ## 🔧 Configuration
@@ -131,11 +131,6 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## 🙏 Acknowledgments
 
-- Zerve AI for hosting the datathon
-- The gradient boosting community for excellent libraries
-
-## 📧 Contact
-
-Your Name - [@yourhandle](https://twitter.com/yourhandle)
+- Zerve AI and IIT Bombay for hosting the datathon
 
 Project Link: [https://github.com/yourusername/insurance-claims-prediction](https://github.com/yourusername/insurance-claims-prediction)
