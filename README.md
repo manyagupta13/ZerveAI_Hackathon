@@ -84,7 +84,7 @@ zerve-ai-datathon/
 ├── data/                        # Data directory
 │   ├── training_data.csv        # Training dataset
 │   ├── test_data.csv            # Test dataset
-│   └── k_zerveai_datathon.csv   # Submission file (generated)
+│   └── submission.csv   # Submission file (generated)
 │
 ├── src/                         # Source code
 │   ├── __init__.py
